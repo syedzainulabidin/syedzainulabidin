@@ -10,10 +10,10 @@ I have experience in a variety of technologies and frameworks, and I am always e
 
 ### 🔧 Technologies & Tools:
 
-- **Web Development:** HTML5, CSS3, JavaScript, PHP, jQuery
+- **Web Development:** HTML5, CSS3, JavaScript, PHP, jQuery , MySql
 - **Web Design:** Responsive Design, User Interface (UI), User Experience (UX)
 - **Graphic Design:** Adobe Photoshop, Adobe Illustrator, Figma
-- **Frameworks & Libraries:** Bootstrap, Tailwind CSS
+- **Frameworks & Libraries:** Bootstrap, Material UI, ReactJs 
 - **Version Control:** Git, GitHub
 
 ---
@@ -34,11 +34,9 @@ I have experience in a variety of technologies and frameworks, and I am always e
 
 ### 💬 Let's Connect:
 
-- **Portfolio:** [My Website](https://aliakbar-guide.netlify.app)
-- **LinkedIn:** [Syed Ali](https://www.linkedin.com/)
-- **Email:** syedali@example.com
+- **Email:** syedzainulabidinali@gmail.com
 
 ---
 
 ### 🏆 Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedzainulabidine&show_icons=true&theme=radical)
