@@ -1,3 +1,2 @@
-## Hi there 👋
-
-# HERE
+## Hi 👋 Syed Ali here
+### Web Developer
