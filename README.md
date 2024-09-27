@@ -1,4 +1,4 @@
-## Hi, I'm Syed Ali! 👋
+# Hi, I'm Syed Ali! 👋
 
 ### Web Developer | Web Designer | Graphic Designer
 
