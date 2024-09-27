@@ -10,7 +10,7 @@ I have experience in a variety of technologies and frameworks, and I am always e
 
 ### 🔧 Technologies & Tools:
 
-- **Web Development:** HTML5, CSS3, JavaScript, PHP, jQuery , MySql
+- **Web Development:** HTML5, CSS3, JavaScript, PHP, jQuery, MySql
 - **Web Design:** Responsive Design, User Interface (UI), User Experience (UX)
 - **Graphic Design:** Adobe Photoshop, Adobe Illustrator, Figma
 - **Frameworks & Libraries:** Bootstrap, Material UI, ReactJs 
@@ -20,8 +20,8 @@ I have experience in a variety of technologies and frameworks, and I am always e
 
 ### 📈 Currently Working On:
 
-- Improving my skills in **WordPress** development.
-- Expanding my knowledge of **cybersecurity** as a beginner in Kali Linux.
+- Improving my skills in **ReactJs** development.
+- Expanding my knowledge of **WordPress**.
 
 ---
 
