@@ -1,41 +1,44 @@
-👋 Hi, I'm Syed Ali
-Web Developer | Web Designer | Graphic Designer
-🌐 About Me:
-I'm a passionate Web Developer and Designer with a creative edge in Graphic Design. My goal is to build user-friendly, efficient, and visually appealing websites while maintaining top-notch design standards. I thrive on turning creative ideas into functional web experiences.
+## Hi, I'm Syed Ali! 👋
 
-💼 Skills:
-🖥️ Web Development:
-HTML5, CSS3, JavaScript
-PHP, MySQL
-Responsive Web Design
-Version Control (Git, GitHub)
-🎨 Web Design:
-UI/UX Design
-Wireframing & Prototyping (Figma, Adobe XD)
-WordPress Customization
-Cross-browser Compatibility
-✏️ Graphic Design:
-Adobe Photoshop, Illustrator
-Branding & Logo Design
-Digital Marketing Materials (Flyers, Social Media Banners)
-🛠️ Tools & Technologies:
-Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind
-Backend: PHP, MySQL
-Version Control: Git & GitHub
-Design: Figma, Adobe Photoshop, Adobe XD, Illustrator
-Others: WordPress, VS Code, Canva
-📈 Projects:
-GamesHub - Gaming zone landing page
-A clean, futuristic landing page for an online gaming hub
-Live Site | GitHub
+### Web Developer | Web Designer | Graphic Designer
 
-Personal Portfolio - Showcasing my work
-A sleek and modern portfolio site featuring my web and graphic design projects
-Live Site | GitHub
+I am a passionate web developer and designer with a keen eye for detail and a love for creating visually appealing and user-friendly websites. With a background in graphic design, I enjoy merging the worlds of design and development to build beautiful, functional digital experiences. 
 
-📫 How to reach me:
-Email: syedali@example.com
-LinkedIn: LinkedIn Profile
-Portfolio: syedali-portfolio.com
-🚀 Let's Collaborate!
-I’m always excited to work on new projects, whether it’s web development, design, or crafting stunning visuals. Feel free to get in touch for collaborations!
+I have experience in a variety of technologies and frameworks, and I am always eager to learn more and tackle new challenges.
+
+---
+
+### 🔧 Technologies & Tools:
+
+- **Web Development:** HTML5, CSS3, JavaScript, PHP, jQuery
+- **Web Design:** Responsive Design, User Interface (UI), User Experience (UX)
+- **Graphic Design:** Adobe Photoshop, Adobe Illustrator, Figma
+- **Frameworks & Libraries:** Bootstrap, Tailwind CSS
+- **Version Control:** Git, GitHub
+
+---
+
+### 📈 Currently Working On:
+
+- Improving my skills in **WordPress** development.
+- Expanding my knowledge of **cybersecurity** as a beginner in Kali Linux.
+
+---
+
+### 🌱 Always Learning:
+
+- Exploring **new front-end frameworks** and **JavaScript libraries**.
+- Diving into the world of **AI** and **machine learning** for the future of web development.
+
+---
+
+### 💬 Let's Connect:
+
+- **Portfolio:** [My Website](https://aliakbar-guide.netlify.app)
+- **LinkedIn:** [Syed Ali](https://www.linkedin.com/)
+- **Email:** syedali@example.com
+
+---
+
+### 🏆 Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
