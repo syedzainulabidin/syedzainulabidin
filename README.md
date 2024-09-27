@@ -39,4 +39,4 @@ I have experience in a variety of technologies and frameworks, and I am always e
 ---
 
 ### 🏆 Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedzainulabidine&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedzainulabidin&show_icons=true&theme=radical)
