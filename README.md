@@ -20,8 +20,8 @@ I have experience in a variety of technologies and frameworks, and I am always e
 
 ### 📈 Currently Working On:
 
-- Improving my skills in **ReactJs** development.
-- Expanding my knowledge of **WordPress**.
+- Improving my skills in **ReactJs**.
+- Expanding my knowledge of **WordPress** Development.
 
 ---
 
